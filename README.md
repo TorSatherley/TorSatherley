@@ -2,11 +2,11 @@
 
 My name is Tor ⚡
 
-I'm about to start the Northcoders Data Engineering Bootcamp 🔭
-I'm pretty new to coding 🤔
-I like walking in the woods and watching Peep Show 🌱
-(not at the same time..)
-Pronouns are he/him 💬
+- I'm about to start the Northcoders Data Engineering Bootcamp 🔭
+- I'm pretty new to coding 🤔
+- I like walking in the woods and watching Peep Show 🌱
+ (not at the same time..)
+- Pronouns are he/him 💬
 
 
 <!--
