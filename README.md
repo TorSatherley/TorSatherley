@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Tor ⚡
+
+I'm about to start the Northcoders Data Engineering Bootcamp 🔭
+I'm pretty new to coding 🤔
+I like walking in the woods and watching Peep Show 🌱
+(not at the same time..)
+Pronouns are he/him 💬
+
+
 <!--
 **TorSatherley/TorSatherley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
