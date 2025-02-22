@@ -1,12 +1,6 @@
 ## Hi there 👋
-
-My name is Tor ⚡
-
-- I'm about to start the Northcoders Data Engineering Bootcamp 🔭
-- I'm pretty new to coding 🤔
-- I like walking in the woods and watching Peep Show 🌱
- (not at the same time..)
-- Pronouns are he/him 💬
+My name is Tor.
+I’m an aspiring Junior Data Engineer with a passion for building robust systems that transform raw data into actionable insights. Currently, I’m honing my skills in Python, SQL, cloud platforms (AWS), and Test-Driven Development (TDD) through the Northcoders Data Engineering Bootcamp. I thrive on solving complex problems and enjoy the continuous learning that comes with working in tech.
 
 
 <!--
