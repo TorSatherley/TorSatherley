@@ -6,6 +6,8 @@ I’m a Junior Data Engineer with a passion for building robust systems that tra
 
 To see some of my work, check out my pinned repo ToteSys-ETL-pipeline. This was a project undertaken whilst studying Data Engineering with Northcoders, and was a collaborative effort between five of us. Check out the README in the repo for more information!
 
+For a more condensed example of some of my solo functional programming and test driven development, check out my other pinned repo, password-manager.
+
 
 <!--
 **TorSatherley/TorSatherley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
