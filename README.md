@@ -8,6 +8,8 @@ To see some of my work, check out my pinned repo ToteSys-ETL-pipeline. This was 
 
 For a more condensed example of some of my solo functional programming and test driven development, check out my other pinned repo, password-manager.
 
+If you want to see some of my OOP (object oriented programming) and TDD, have a looked at the pinned repo, pokemon-battler.
+
 
 <!--
 **TorSatherley/TorSatherley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
